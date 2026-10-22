@@ -11,13 +11,18 @@
 
 ---
 
-I design, build, and deploy AI-powered applications that connect models to real business workflows. My work spans LLM integration, automation, and full-stack development, with a focus on taking an idea through to a usable product.
+I build AI systems that retrieve knowledge, use tools, and turn multi-step tasks into dependable workflows. My focus spans agentic applications, retrieval-augmented generation, model fine-tuning, and the evaluation needed to understand how a system behaves.
+
+I connect that AI layer to the rest of the product: APIs, data pipelines, full-stack interfaces, and deployment workflows, with attention to reliability, latency, and cost.
 
 ### What I do
 
-**AI Engineering** · LLM applications · RAG · AI agents · Fine-tuning  
-**Software Engineering** · Full-stack applications · API integration · System design  
-**Cloud & DevOps** · Deployment pipelines · CI/CD · Monitoring · Infrastructure automation
+**Agentic AI** · Multi-step workflows · Tool & function calling · MCP integrations · Human-in-the-loop systems  
+**Retrieval & Knowledge** · RAG pipelines · Embeddings · Vector search · Grounded responses  
+**Model Adaptation** · LLM fine-tuning · LoRA · Dataset preparation · Model comparison  
+**Evaluation & Reliability** · Agent evaluations · Behavioural regression testing · Structured outputs · Guardrails  
+**AI Delivery** · Inference APIs · Tracing & monitoring · Latency & cost optimisation  
+**Software Engineering** · Full-stack development · API & system design · Docker · CI/CD
 
 ---
 
