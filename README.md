@@ -32,9 +32,3 @@ I design, build, and deploy AI-powered applications that connect models to real 
   <img src="https://img.shields.io/badge/Docker-181717?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker">
   <img src="https://img.shields.io/badge/GitHub_Actions-181717?style=flat-square&amp;logo=githubactions&amp;logoColor=2088FF" alt="GitHub Actions">
 </p>
-
----
-
-💼 AI engineering at **IBV Group — AI NexGen**  
-🎓 **BSc IT (Software Engineering), Summa Cum Laude**  
-🏆 **Two-time first-place hackathon winner** — AI solutions for business automation and healthcare
